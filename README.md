@@ -7,7 +7,7 @@ Throughout the module, we helped Diana establish filters on finding specific UFO
 ## Results
 After we make changes to the Javascript, we can see the filters displayed at the left side of the page. By utilzing these filters, the data would have been displayed entirely which would have been jarring to the user as they visit the website for the first time. Since we were only searching UFO sightings with dates, it only limited the large dataset by one criteria which did help in finding certain sightings but did not help in specifying where exactly the sighting was spotted. We can now narrow down the dataset by cities, states, countries and the shape of the apparent UFO.
 
-![]
+![](static/images/UFO_sightings.png)
 
 As we can observe in the above screenshot, we are now able to specify UFO sightings based on the new filters we added to the Filter Search. Now users are able to fulfil their interests as they search sightings out of curiosity and/ or prjects.
 
